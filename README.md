@@ -1,21 +1,22 @@
-# Restaurant Landing Page
+# Portfolio Website
 
-Welcome to the landing page project for a restaurant website created using HTML, CSS, and Bootstrap. This project aims to showcase a visually appealing and user-friendly landing page for a restaurant, highlighting its key features and offerings.
+Welcome to my portfolio website project created using HTML, CSS, Bootstrap, and JavaScript. This project showcases my skills, projects, and experiences in a visually appealing and user-friendly manner.
 
 ## Features
 
 - Responsive design ensuring compatibility across various devices and screen sizes.
-- Clean and intuitive user interface.
+- Clean and modern user interface.
 - Utilization of Bootstrap framework for efficient and consistent styling.
-- Easy-to-navigate layout facilitating seamless browsing experience.
+- Interactive elements powered by JavaScript for enhanced user engagement.
 
 ## Technologies Used
 
 - HTML
 - CSS
 - Bootstrap
+- JavaScript
 
 ## Contributors
 
-- Ritika Srivastava - Project Developer
+- Ritika Srivastava- Project Developer
 
